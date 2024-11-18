@@ -1,4 +1,4 @@
-# **"Automation Architect: Python for DevOps Powerhouses"**  
+# **Automation Architect: Python for DevOps Powerhouses**  
 _A hands-on guide to using Python for modern DevOps practices, infrastructure automation, and monitoring._
 
 
